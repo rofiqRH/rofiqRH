@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toko Aki Banjar Shop&Drive</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Toko Aki Banjar Shop&Drive</h1>
+        <p>Jual berbagai jenis accu mobil merek GS Astra, garansi sampai 2 tahun, siap antar pasang accu free jasa antar pasang</p>
+    </header>
+    
+    <div class="promo-image">
+        <img src="promo.jpg" alt="Promo">
+    </div>
+
+    <div class="container">
+        <div class="product-container">
+            <div class="product">
+                <img src="aki1.jpg" alt="Aki 1">
+                <h2>Accu GS GOLD</h2>
+                <p></p>
+            </div>
+            <div class="product">
+                <img src="aki2.jpg" alt="Aki 2">
+                <h2>Accu GS maintenace free</h2>
+                <p></p>
+            </div>
+            <div class="product">
+                <img src="aki3.jpg" alt="Aki 3">
+                <h2>Accu GS LN</h2>
+                <p></p>
+            </div>
+            <div class="product">
+                <img src="aki4.jpg" alt="Aki 4">
+                <h2>Accu GS hybrid</h2>
+                <p></p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Kontak Person: No. Wa 0262775877 | No. Hp 085315914186</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
